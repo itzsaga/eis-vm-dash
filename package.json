@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/itzsaga/eis-vm-dash#readme",
   "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
     "dotenv-webpack": "^1.5.4",
     "firebase": "^4.8.2",
     "react": "^16.2.0",
