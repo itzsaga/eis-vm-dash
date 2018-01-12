@@ -1,4 +1,22 @@
 {
+  "name": "eis-vm-dash",
+  "version": "1.0.0",
+  "description": "A React app to keep track who is using which VM and what client they are connected to.",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzsaga/eis-vm-dash.git"
+  },
+  "author": "Seth Alexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itzsaga/eis-vm-dash/issues"
+  },
+  "homepage": "https://github.com/itzsaga/eis-vm-dash#readme",
   "dependencies": {
     "dotenv-webpack": "^1.5.4",
     "firebase": "^4.8.2",
